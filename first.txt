@@ -1,2 +1,2 @@
-hello this is git learning
-added second line
+hello
+hi
